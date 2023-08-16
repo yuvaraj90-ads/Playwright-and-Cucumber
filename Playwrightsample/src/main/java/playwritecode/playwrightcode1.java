@@ -30,5 +30,4 @@ public class playwrightcode1 {
 		playwright.close();
 		
 	}
-	
 }
