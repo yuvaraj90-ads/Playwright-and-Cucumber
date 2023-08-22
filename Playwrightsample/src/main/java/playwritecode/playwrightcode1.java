@@ -28,6 +28,5 @@ public class playwrightcode1 {
 //		browser.close();
 //		browserContext.close();
 		playwright.close();
-		
 	}
 }
